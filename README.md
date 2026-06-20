@@ -26,14 +26,5 @@ The workflow is split into steps, each exported as a robot job:
 ## Repository contents
 - `*.JBI` — Motoman robot job programs (INFORM language)
 - `Welding_Automation_Project.pdf` — full project report
-- `optimized.vcmx` — Visual Components project *(available on request / [link])*
+- `optimized.vcmx` — Visual Components project 
 
-## Results
-[1–2 lines: what you achieved — e.g. a verified collision-free multi-weld
-sequence, reduced programming time vs teaching on the real robot, etc.]
-
-## Screenshots
-![Cell overview](images/cell-overview.png)
-![Weld sequence](images/weld-sequence.png)
-
-*Project completed [year], [LUT coursework / self-directed].*
